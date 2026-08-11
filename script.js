@@ -1127,11 +1127,10 @@ function criarYoutubeEmbed(youtubeId, titulo) {
   return `
     <div class="youtube-wrapper">
       <iframe
-        src="https://www.youtube-nocookie.com/embed/${youtubeId}?enablejsapi=1"
+        src="https://www.youtube.com/embed/${youtubeId}"
         title="${escapeHtml(titulo || "Canto")}"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin"
         allowfullscreen>
       </iframe>
     </div>`;
