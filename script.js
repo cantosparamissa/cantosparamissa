@@ -67,7 +67,7 @@ const cantos = [
     autor: "São Tomás de Aquino",
     compositor: "Canto gregoriano",
     tom: "Modo III",
-    youtubeId: "http://www.youtube.com/watch?v=4OzvUkSGKRg",
+    youtubeId: "4OzvUkSGKRg",
     imagem: IMG.altar,
     letra: "Pange, lingua, gloriosi\nCorporis mysterium,\nSanguinisque pretiosi,\nQuem in mundi pretium\nFructus ventris generosi\nRex effudit gentium.\n\nNobis datus, nobis natus\nEx intacta Virgine,\nEt in mundo conversatus,\nSparso verbi semine,\nSui moras incolatus\nMiro clausit ordine.\n\nIn supremae nocte cenae\nRecumbens cum fratribus,\nObservata lege plene\nCibis in legalibus,\nCibum turbae duodenae\nSe dat suis manibus.\n\nVerbum caro, panem verum\nVerbo carnem efficit:\nFitque sanguis Christi merum,\nEt si sensus deficit,\nAd firmandum cor sincerum\nSola fides sufficit."
   },
